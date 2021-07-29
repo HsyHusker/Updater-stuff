@@ -1,49 +1,47 @@
-Changelogs:
-• May Security r37
-• Fixed hex accent picker
-• Fixed VPN hotspot
-• Fixed QS Panel opacy when landscape
-• Fixed VPN and qs media when landscape
-• Fixed some clock format AM/PM
-• Fixed scrooling in force fullscreen
-• Fixed other lights when backlight uses SurfaceController API
-• Move DisplayCutout to display settings
-• Added wifi timeout
-• Added bluetooth timeout
-• Added refresh rate
-• Added OOS 11 Volte icon
-• Added back screenshot delete toast
-• Added QS tiles size
-• Added QS tiles columns
-• Added lockscreen background blur
-• Added QS Custom background
-• Added statusbar notification ticker
-• Added settings style
-• Added A12 QS Tile style background
-• Added Data icon style
-• Added show and edit ambient icon on LS
-• Added notification background opacy
-• Added Custom Statusbar Clock Background
-• Added colored statusbar icon and notification 
-• Added option to scale default wallpaper to screen size
-• Added hide notch
-• Improve clipboard access toast
-• Improve Settings
-• Improve Doze on charge
-• Improve some lockscreen clock
-• Improve landscap battery
-• Improve blur radius from kdrag0n
-• Improve aosp screenrecord
-• Improve bootanimation
-• Re-enable side clock in statusbar dual
+Changelogs :
+• July Security r39
+• Added QS Panel style (Stocklike, Ancient UI, OOS like panel)
+• Improve and Add more StatusBar Dual Row Style (statusbar height now autoswitch according to style)
+  (thanks to @krisnaabdillah and @nabil_aba for the new layout)
+• Added more statusbar icon
+• Rework Brightness Style to Non overlay
+• Added Notif Header text color
+• Improve Simple Statusbar Padding
+• Rework Font overlay
+• Re enable qs draghandle (switchable with qqs setting n brightness on stocklike panel)
+• Improve n Rework Header Image Size
+• Improve and Add more LandScape Battery (thanks to @hellonetizen for new battery style)
+• Improve statusbar toggle slider
+• Force enable all CarrierLabel placement
+• Rework Ancient QsClock Style to non overlay (improve speed when switching style)
+• Added back Ancient a10 QsClock to style
+• Added Settings Homepage like stock style
+• Added more settings theme (with or without card)
+• Added volume for app
+• Added WFD legacy output video mode
+• Added livedisplay
+• Added Monet engine from DotOS (Need re apply wallpaper image after choose color pallete)
+• Added LS clock Android S and more
+• Added reticker
+• Added headsup timeout
+• Added wakelockblocker
+• Added alarmblocker
+• Added switches style android S
+• Improve FOD
+• Fixed charging vibrate
+• Disable ambient music
+• Updated to accenter 3.0
+• Enable network activity indicator
+• Allow disable suggestion in launcher
 • Misc
+
+Notes:
+• Must clean flash
+• Weeb version hope few day later
+
 -----------------
 
-Device changelog:
-- Added OPScreenRecorder. 
-- Added missing wifi calling configs for some carriers. 
-- Switched to Notkernel R18 (by @dracarys_18)
+Device Changelogs:
+- Added more wifi calling configs for some carriers. 
 - Tweaked build.prop for better scrolling and animations. 
-- Update to redfin June fingerprint. 
-- Added front camera calibration. 
-- Flatten APEXs for performance.
+- Update to redfin July fingerprint.
