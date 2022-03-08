@@ -1,55 +1,24 @@
-AncientOS 4.0 Final | Primeval | Koshiki | Sept 24, 2020
+AncientOS v6.2 Beta | Steel | March 08, 2022
 
 Source CL :
-• Sept security patch
-• Improve Doze
-• Improve UI
-• Improve qstile and icon primary
-• Add VOOC charging support
-• Add screen off FOD
-• Add Realme recog FP animation
-• Add Realme green FOD pressed
-• Add ambient display battery toggle
-• Add Miui volume dialog
-• Add lockscreen clock animation
-• Add navbar custom
-• Add background merge for qs and notif
-• Add screen stabilization
-• Add touch respone optimizations
-• Add Clipboard toast like ios
-• Add support lineage power HAL
-• Add square switch
-• Add more systembar
-• Add notification count
-• Add land dimensions
-• Add more AncientStyle
-• Add settings animation
-• Update QuickStep
-• Update Dialer
-• Update Widget
-• More
+• February Security
+• Google backup & restore fixed
+• Added Face & FP unlock
+• Fixed back gesture
 
 Device Changelogs:
-• Fixed call quality issues
-• Fixed cast (WiFi Display)
-• Fixed earpiece volume slider
-• Fixed GPS related issues
-• Fixed mic distortion issues
-• Fixed random reboots due to WiFi
-• Fixed sensors not working for some users
-• Fixed signal delay after boot
-• Fixed screen recorder lag
-• Updated display and media HALs from LA.UM.8.6.2.r1-08400-89xx.0
-• Updated Graphics, Media, Postprocessing, Perf and SDM from LA.UM.8.6.2.r1-08400-89xx.0
-• Imported ESE-Powermanager, IO Prefetcher, Latency, SCVE and Soter from LA.UM.8.6.2.r1-08400-89xx.0
-• Imported new thermal engine
-• Improved WiFi connection stability
-• Switched to CAF surfaceflinger
-• Switched back to QTI Power HAL
-• Updated init scripts, power profile and misc. configs
-• Xiaomi Parts is more stable now.(3.0)
-• Address Many Denials
-• Update coral fp to september patch
-• Tune Zram performance
-• Some performance improvements
-• Under the hood optimizations
+• February Security Patch
+• Set vendor.post_boot.parsed=1
+• Set BPF support level
+• Enable debug.sf.latch_unsignaled
+• Update Redfin FP to Feb
+• Disable in call music
+• Checkout audio configs from https://github.com/xiaomi-msm8953-devs
+• Update Media and Graphic blobs from LA.UM.9.6.2.r1-04200-89xx.0
+• Update WiFi blobs from LA.UM.9.6.3.r1-04400-89xx.0
+• Switch to userspace LMKD
+• Add vulkan and egl hardware variant properties
+• Switch to Vulkan UI renderer
+• Update Vulkan Configs
+• Build With Ryzen kernel v4.9.304
+• Build With Ancient Clang By Default
