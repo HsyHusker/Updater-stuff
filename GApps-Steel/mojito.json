@@ -1,17 +1,16 @@
 {
     "error": false,
-    "id": "b2cc684210abcef9c3cef7c30dd49c8d0f1f76fc871ba8224da71fc50a3426db",
-    "filename": "AncientOS-R-Society-v5.6-mojito-Iron-20210930-0827-GApps.zip",
-    "datetime": 1632990303,
-    "version": "v5.6",
-    "size": 1536600261,
-    "url": "https://sourceforge.net/projects/ancientrom/files/mojito/AncientOS-R-Society-v5.6-mojito-Iron-20210930-0827-GApps.zip/download",
-    "filehash": "3cd37eef7617c0a05f1fc894a405e892",
+    "id": "01b2f703145218ddcccd73b1f96cf43031a46a371cffc52b4e332ad7dd6a7aff",
+    "filename": "AncientOS-S-Shield-v6.2-mojito-Steel-20220317-0714-GApps.zip",
+    "datetime": 1647501283,
+    "version": "v6.2",
+    "size": 1676669751,
+    "url": "https://sourceforge.net/projects/ancientrom/files/mojitoAncientOS-S-Shield-v6.2-mojito-Steel-20220317-0714-GApps.zip/download",
+    "filehash": "d4bcaf28d899196bbcf1a46be82b739c",
     "website_url": "https://sourceforge.net/projects/ancientrom/files/",
     "news_url": "https://t.me/ancientrom",
-    "donate_url": "https://www.paypal.com/paypalme/anggialansori",
-    "maintainer": "hikarinochikara",
-    "maintainer_url": "https://t.me/hikarinochikara",
+    "maintainer": "Arham Dharewa",
+    "maintainer_url": "https://t.me/zeuts",
     "forum_url": "https://t.me/ancientrom"
  }
  
