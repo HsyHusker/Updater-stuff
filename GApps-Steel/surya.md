@@ -1,17 +1,13 @@
-AncientOS 6.2 | Steel | Feb 27, 2022
+AncientOS 6.2 | Steel | March 24, 2022
 
-Changelogs :
-• February Security
-• Google backup & restore fixed
-• Added Face & FP unlock
-• Fixed back gesture
+Changelogs:
+• February Security patch
+• SafetyNet is fixed
 
 Device:
 • Firmware included (V12.5.5.0.RJGINXM)
-• Fix GCAM crashes
-• OpenGL renderer as default
-• Fixed Ambient Display crashes
+• Google Photos fixed
 • Some fixes and improvements
-• RR per app improves
-• Address few Denials
-• KANG SB overlays from vayu
+• Improve KCAL UI (Display colors)
+• Netflix & Prime Video works now
+• QuickSilver kernel with some additions and spamlogs fixed now by me
